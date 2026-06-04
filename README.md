@@ -1,3 +1,3 @@
-# Gen-Evolving
+# MemoGen
 
 Coming soon～
